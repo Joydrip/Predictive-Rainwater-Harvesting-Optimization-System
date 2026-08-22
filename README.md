@@ -162,8 +162,13 @@ The MILP solver optimized the plumbing suite across all categories, significantl
 
 ### Fig. 2 — Baseline vs. Optimized Water Demand
 
-![Baseline vs Optimized Water Demand](images/baseline_vs_optimized_demand.png)
+<p align="center">
+  <img src="images/baseline_vs_optimized_demand.png" width="450">
+</p>
 
+<p align="center">
+  <i>Baseline vs Optimized Water Demand</i>
+</p>
 ---
 
 ### 2. Strategy Contribution to Net-Zero Water
@@ -181,7 +186,7 @@ By coupling demand reduction with on-site circular supply streams, the complex o
 ### Fig. 3 — Strategy Breakdown
 
 <p align="center">
-  <img src="images/water_offset_breakdown.png" width="350">
+  <img src="images/water_offset_breakdown.png" width="650">
 </p>
 
 <p align="center">
