@@ -180,8 +180,13 @@ By coupling demand reduction with on-site circular supply streams, the complex o
 
 ### Fig. 3 — Strategy Breakdown
 
-![Water Offset Breakdown](images/water_offset_breakdown.png)
+<p align="center">
+  <img src="images/water_offset_breakdown.png" width="350">
+</p>
 
+<p align="center">
+  <i>Water Offset Breakdown</i>
+</p>
 ---
 
 # 💡 Key Features
